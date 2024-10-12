@@ -13,13 +13,13 @@ b = 2.3
 print(a ** b)
 
 lista = [10, "ciao", 3.1415, a]
-lista1 = [24, "trentatré trentini", "Fiume"]
+lista1 = [24, "trentatré trentini", "Firenze"]
 tupla = (2, 3, "10", 15, a)
 print(tupla)
 a = lista
 lista[0] = 9
 lista[1] = "Fisica1 è bella"
-lista1[2] = "Fiume conquistata"
+lista1[2] = "Firenze è stunning"
 print(lista)
 c = float(input("Inserire l'altezza: "))
 print(type(c))
