@@ -1,6 +1,6 @@
 """
 Code written in Python to solve Sudoku
-The key idea is to implement the function using vary functions. The program is structured by solving 3 key problem:
+The key idea is to implement the function using many functions. The program is structured by solving 3 key problem:
 *   Finding Unassigned Entry of the array (the zeros which are equivalent to the blank spaces of unresolved sudokus)
 *   Checking if it is safe to put a number (there are not repetition in the coloumn, in the row or in the cell)
 *   Checking for every cell every number
