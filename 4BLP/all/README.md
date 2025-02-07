@@ -1,7 +1,7 @@
 # 4BLP
 
 <p align="center">
-  <img src="https://github.com/ai-sf/pisa-eventi/tree/main/4BLP/all/vignette/logo.png" alt="logo" width="250">
+  <img src="https://raw.githubusercontent.com/ai-sf/pisa-eventi/tree/main/4BLP/all/vignette/logo.png" alt="logo" width="250">
 </p>
 
 **4 BREVI LEZIONI DI PYTHON**
