@@ -1,3 +1,3 @@
-# Croso base
+# Corso base
 
-Materiale usato duratnte lo svolgimento del corso base
+Materiale usato durante lo svolgimento del corso base
