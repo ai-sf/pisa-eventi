@@ -9,4 +9,4 @@ Diamo qui una breve descrizione del contenuto delle cartelle:
 - 4BPL/corso_avanzato_2025: Materiale per il corso avanzato di python dell'anno 24/25
 - 4BPL/all : Cartella contenente tutto il materiale realtivo alle lezioni di python (unica cartella in costante aggiornamento
 
-- FAP/FAP-mic-guide: la guida di utilizzo e funzionamento dei microfoni da utilizzare per gli incontri di Fisica al Pub
+- FAB/FAB-mic-guide: la guida di utilizzo e funzionamento dei microfoni da utilizzare per gli incontri di Fisica al Pub
